@@ -63,4 +63,3 @@ class _HomePageState extends State<HomePage> {
         'colour': colour,
       });
       period.clear();
-      
